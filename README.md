@@ -1,5 +1,7 @@
 # [InfiniTime](https://github.com/InfiniTimeOrg/InfiniTime)
 
+This repo is a fork for adding a clock face I like
+
 ![InfiniTime logo](doc/logo/infinitime-logo-small.jpg "InfiniTime Logo")
 
 Fast open-source firmware for the [PineTime smartwatch](https://www.pine64.org/pinetime/) with many features, written in modern C++.
